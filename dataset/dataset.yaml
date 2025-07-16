@@ -1,0 +1,5 @@
+path: ./dataset
+train: images
+val: images/val
+nc: 1
+names: ['vaca']

@@ -1,0 +1,6 @@
+assets/
+dataset/images/train/
+labels/train
+
+venv/
+models/
