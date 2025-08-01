@@ -1,7 +1,7 @@
 import cv2
 import os
 
-video_path = os.path.join("assets", "final-7.mp4")
+video_path = os.path.join("assets", "1.mp4")
 output_folder = "dataset/images/train"
 os.makedirs(output_folder, exist_ok=True)
 
